@@ -1,3 +1,6 @@
+name: taskflow_pro
+description: A Flutter task management application.
+
 environment:
   sdk: '^3.10.0'
 
@@ -6,4 +9,3 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
   google_fonts: ^6.1.0  # For beautiful fonts
-  flutter_icons: ^1.0.0  # For icons
